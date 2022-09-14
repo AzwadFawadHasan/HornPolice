@@ -1,2 +1,6 @@
 # HornPolice
-HornPolice is a app that monitors horn sounds in cars and accordingly rewards/fines the user
+a project created with my teammates for my cse307 system analysis and design course
+
+## About
+HornPolice is a mobile app that detects horn sounds and based on the location of the car it awards or fines the user for the horn sound
+
